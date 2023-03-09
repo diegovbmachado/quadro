@@ -5,8 +5,8 @@ let mouseY = 0;
 
 let screen = document.querySelector('#tela');
 //algum tipo de erro no 2d, nao sei oque é.
-let ctx = screen.getContex('2d');
-
+//let ctx = screen.getContex('2d');
+//alteraçoes e aqui to apenas testando
 
 document.querySelectorAll('.colorArea .color').forEach(item =>{
 item.addEventListener('click', colorClickEvent);
