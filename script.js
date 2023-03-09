@@ -7,6 +7,7 @@ let screen = document.querySelector('#tela');
 //algum tipo de erro no 2d, nao sei oque é.
 let ctx = screen.getContex('2d');
 
+
 document.querySelectorAll('.colorArea .color').forEach(item =>{
 item.addEventListener('click', colorClickEvent);
 });
