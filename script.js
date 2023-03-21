@@ -11,7 +11,7 @@ let screen = document.querySelector('#tela');
 document.querySelectorAll('.colorArea .color').forEach(item =>{
 item.addEventListener('click', colorClickEvent);
 });
-//so testando novamente numero de gits
+//mais um apenas....dois...
 
 screen.addEventListener('mousedown', mouseDownEvent);
 screen.addEventListener('mousemove', mouseMoveEvent);
