@@ -13,9 +13,6 @@ item.addEventListener('click', colorClickEvent);
 });
 //aqui tbm!
 //saquei
-//testando novamente aqui
-//2
-
 
 screen.addEventListener('mousedown', mouseDownEvent);
 screen.addEventListener('mousemove', mouseMoveEvent);
