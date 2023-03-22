@@ -12,6 +12,7 @@ document.querySelectorAll('.colorArea .color').forEach(item =>{
 item.addEventListener('click', colorClickEvent);
 });
 //aqui tbm!
+//saquei
 //testando novamente aqui
 
 screen.addEventListener('mousedown', mouseDownEvent);
